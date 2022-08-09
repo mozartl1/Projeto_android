@@ -140,10 +140,9 @@ aside > ul{
 
 footer {
     background-color: var(--cor5);
-    padding: 5px;
+    padding: 2px;
     color: white;
     text-align: center;
-    font-weight: bold;
 }
 
 main a {
